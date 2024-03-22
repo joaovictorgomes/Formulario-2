@@ -212,6 +212,8 @@ footer .button {
     height: 56px;
   
     color: #FFFFFF;
+
+    cursor: pointer;
   }
   
   footer .button:hover {
